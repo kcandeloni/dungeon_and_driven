@@ -1,0 +1,6 @@
+node_modules/
+.env
+.eslintrc.js
+.eslintignore
+.lintstagedrc
+.prettrierc.js
